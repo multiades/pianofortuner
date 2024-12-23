@@ -1,0 +1,16 @@
+{% if page.lang == "el" %}
+  {% assign greek = true %}
+{% else %}
+  {% assign greek = false %}
+{% endif %}
+<footer>
+  <p>
+    <strong>{% if greek %}Κεπελιάν Αλέξανδρος{% else %}Kepelian Alexander{% endif %}</strong><br>
+    {% if greek %}Πιστοποιημένος χορδιστής πιάνων{% else %}Certified piano tuner{% endif %}<br>
+  </p>
+  <p>
+    {% if greek %}Επικοινωνήστε μαζί μου σήμερα και κλείστε το ραντεβού σας{% else %}Contact me today and arrange an appointment{% endif %}!<br>
+    {% if greek %}Τηλ. {% else %}Phone{% endif %}: +30 6906272426<br>
+    Email: <a href="mailto:alexanderkepelian@gmail.com">alexanderkepelian@gmail.com</a>
+  </p>
+</footer>
