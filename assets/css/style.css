@@ -8,10 +8,6 @@ main {
   margin: 0 auto;               /* Remove default margin */
 }
 
-img {
-  border-radius: 10%;
-}
-
 header {
   display: flex;              /* Enable flexbox layout */
   justify-content: flex-end;  /* Align content to the right */
