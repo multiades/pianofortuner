@@ -1,6 +1,8 @@
 title: pianofortuner
 description: A website about my piano tuning occupation
 theme: null
+baseurl: "/pianofortuner"
+url: "https://multiades.github.io"
 markdown: kramdown  # Default markdown processor
 plugins:
   - jekyll-feed
