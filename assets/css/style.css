@@ -1,14 +1,5 @@
-body {
-  display: flex;                /* Enable flexbox */
-  flex-direction: column;       /* Stack elements vertically */
-  justify-content: center;      /* Vertically center the content */
-  align-items: center;          /* Horizontally center the content */
-  min-height: 100vh;             /* Ensure full height */
-  margin: 0;                    /* Remove default body margin */
-}
-
 img {
-  max-width: 10%;
-  max-height: 10%;
+  max-width: 30%;
+  max-height: 30%;
   border-radius: 20%;
 }
