@@ -3,14 +3,13 @@ main {
   flex-direction: column;       /* Stack elements vertically */
   justify-content: center;      /* Vertically center the content */
   align-items: center;          /* Horizontally center the content */
-  min-height: 100vh;             /* Ensure the main element takes at least the full viewport height */
-  margin: 0;                    /* Remove default margin */
+  min-height: 100vh;            /* Ensure the main element takes at least the full viewport height */
+  width: 70%;                   /* All child elements of main span across a certain percentage of the display */
+  margin: 0 auto;               /* Remove default margin */
 }
 
 img {
-  width: 50%;
-  height: 50%;
-  border-radius: 20%;
+  border-radius: 10%;
 }
 
 header {
@@ -20,5 +19,5 @@ header {
 }
 
 footer {
-  backgound-color: powderblue;
+  background-color: powderblue;
 }
