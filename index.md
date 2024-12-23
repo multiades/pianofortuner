@@ -1,7 +1,7 @@
 ---
 lang: el
 permalink: /
-layout:base
+layout: base
 ---
 
 # Το πιάνο σας αξίζει την καλύτερη φροντίδα
