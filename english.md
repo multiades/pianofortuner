@@ -15,7 +15,7 @@ Looking for a professional tuner for your piano (or more accurately, pianoforte)
 ![Alexander Kepelian tuning a piano](/assets/images/alex.jpg)
 
 My name is Kepelian Alexander, I am a pianist and a certified piano tuner. Playing the piano since the age of 10, under the guidance of various teachers, eventually led me in attending the music school of
-Alimos. In addition, I took up piano tuning because of my grandfather's involvement with it. The next milestone in this direction was being certified in piano tuning and maintenance by the center of experiential
+Alimos. In addition, I took up piano tuning because of my grandfather's involvement with it. The next milestone in this direction was being certified in piano tuning and maintenance (600 hours) by the center of experiential
 learning "Ekpedeftiki Enosi" in Athens.
 
 ![Scan of the piano tuning certification of Kepelian Alexander, first page](/assets/images/cert1.jpg)
