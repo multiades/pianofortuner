@@ -1,5 +1,26 @@
+main {
+  display: flex;                /* Enable flexbox */
+  flex-direction: column;       /* Stack elements vertically */
+  justify-content: center;      /* Vertically center the content */
+  align-items: center;          /* Horizontally center the content */
+  min-height: 100vh;             /* Ensure the main element takes at least the full viewport height */
+  margin: 0;                    /* Remove default margin */
+}
+
 img {
-  max-width: 30%;
-  max-height: 30%;
+  min-width: 50%;
+  min-height: 50%;
+  max-width: 50%;
+  max-height: 50%;
   border-radius: 20%;
+}
+
+header {
+  display: flex;              /* Enable flexbox layout */
+  justify-content: flex-end;  /* Align content to the right */
+  background-color: powderblue;
+}
+
+footer {
+  backgound-color: powderblue;
 }
