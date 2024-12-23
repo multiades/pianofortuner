@@ -13,6 +13,7 @@ main img {
   height: auto;         
   object-fit: contain;      /* Maintain aspect ratio and fit the image inside the container */
   display: block;           /* Ensure block-level display */
+  border-radius: 10%;       /* Round corners */
 }
 
 header {
