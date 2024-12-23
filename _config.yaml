@@ -1,3 +1,6 @@
 title: pianofortuner
-description: A website about my tuning occupation
+description: A website about my piano tuning occupation
 theme: null
+markdown: kramdown  # Default markdown processor
+plugins:
+  - jekyll-feed
