@@ -9,8 +9,7 @@ layout: base
 Looking for a professional tuner for your piano (or more accurately, pianoforte)? Proper maintenance and regular tuning (at least once a year) is the key to an wholesome, crystal clear sound.
 
 > Music is a language that transcends barriers and unites people from all walks of life, Arthur Rubinstein
- 
-<section>
+> 
 ## About me
 
 ![Alexander Kepelian tuning a piano](/assets/images/alex.jpg "Tuning session")
@@ -21,9 +20,7 @@ learning "Ekpedeftiki Enosi" in Athens.
 
 ![Scan of the piano tuning certification of Kepelian Alexander, first page](/assets/images/cert1.jpg)
 ![Scan of the piano tuning certification of Kepelian Alexander, second page](/assets/images/cert2.jpg) 
-</section>
 
-<section>
 ## About my grandfather
 
 ![Melixe Kepelian playing a grand piano](/assets/images/melik.jpg "My grandfather at work")
@@ -32,17 +29,13 @@ My grandfather, Melixe Kepelian, was a pianist and accordionist in Syria for man
 and maintainance of the musical instrument he so much adored. He succeded after excessive personal effort, studying the principles of tuning and putting them into practice,
 while making use of the musicality and acoustic skills he had acquired during his lifetime. He was an exceptional practitioner of the craft, as evidenced by by the heartfelt references to his name
 by people in the field even today,  although his activity has ceased for many decades now. 
-</section>
 
-<section>
 ## Provided services
 
 * High precision tuning for any type of piano.
 * Adjustment and repair to improve the feel and response of the keys.
 * Professional care for any maintenance needs.
-</section>
 
-<section>
 ## Why choose me?
 
 * Expertise and passion in the field of tuning.
@@ -50,4 +43,3 @@ by people in the field even today,  although his activity has ceased for many de
 * Affordable prices and transparency.
 
 Elevate your music, one tuning session at a time.
-</section>
