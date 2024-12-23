@@ -1,6 +1,6 @@
 ---
 lang: en
-permalink: /en/
+permalink: en/
 layout: base
 ---
 
@@ -12,7 +12,7 @@ Looking for a professional tuner for your piano (or more accurately, pianoforte)
 > 
 ## About me
 
-![Alexander Kepelian tuning a piano](/assets/images/alex.jpg "Tuning session")
+![Alexander Kepelian tuning a piano](/assets/images/alex.jpg)
 
 My name is Kepelian Alexander, I am a pianist and a certified piano tuner. Playing the piano since the age of 10, under the guidance of various teachers, eventually led me in attending the music school of
 Alimos. In addition, I took up piano tuning because of my grandfather's involvement with it. The next milestone in this direction was being certified in piano tuning and maintenance by the center of experiential
@@ -23,7 +23,7 @@ learning "Ekpedeftiki Enosi" in Athens.
 
 ## About my grandfather
 
-![Melixe Kepelian playing a grand piano](/assets/images/melik.jpg "My grandfather at work")
+![Melixe Kepelian playing a grand piano](/assets/images/melik.jpg)
 
 My grandfather, Melixe Kepelian, was a pianist and accordionist in Syria for many years. When he arrived in Greece in 1981, he decided to take up tuning 
 and maintainance of the musical instrument he so much adored. He succeded after excessive personal effort, studying the principles of tuning and putting them into practice,
