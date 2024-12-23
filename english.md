@@ -9,7 +9,7 @@ layout: base
 Looking for a professional tuner for your piano (or more accurately, pianoforte)? Proper maintenance and regular tuning (at least once a year) is the key to an wholesome, crystal clear sound.
 
 > Music is a language that transcends barriers and unites people from all walks of life, Arthur Rubinstein
-> 
+ 
 ## About me
 
 ![Alexander Kepelian tuning a piano](/assets/images/alex.jpg)
