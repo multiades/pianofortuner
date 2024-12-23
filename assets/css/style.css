@@ -4,13 +4,15 @@ main {
   justify-content: center;      /* Vertically center the content */
   align-items: center;          /* Horizontally center the content */
   min-height: 100vh;            /* Ensure the main element takes at least the full viewport height */
-  width: 70%;                   /* All child elements of main span across a certain percentage of the display */
+  width: 90%;                   /* All child elements of main span across a certain percentage of the display */
   margin: 0 auto;               /* Remove default margin */
 }
 
 main img {
-  flex: 1 0 100%;    /* Makes images flexible and forces them to take 100% width */
-  height: auto;
+  width: 100%;              /* Images take up 100% of the container */
+  height: auto;         
+  object-fit: contain;      /* Maintain aspect ratio and fit the image inside the container */
+  display: block;           /* Ensure block-level display */
 }
 
 header {
