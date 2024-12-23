@@ -8,6 +8,11 @@ main {
   margin: 0 auto;               /* Remove default margin */
 }
 
+main img {
+  flex: 1 0 100%;    /* Makes images flexible and forces them to take 100% width */
+  height: auto;
+}
+
 header {
   display: flex;              /* Enable flexbox layout */
   justify-content: flex-end;  /* Align content to the right */
