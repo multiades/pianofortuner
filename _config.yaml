@@ -6,3 +6,4 @@ url: "https://multiades.github.io"
 markdown: kramdown  # Default markdown processor
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
