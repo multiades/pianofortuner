@@ -2,13 +2,25 @@
 <html lang="{{ page.lang }}">
   <head>
     <meta charset="UTF-8">
+    <meta name="description" content="A testing website">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/style.css" type="text/css">
     <title>{{ site.title }}</title>
   </head>
   <body>
     <header>
-      {% include langswitch.html %} -->
+      {% include langswitch.html %}
+      <section id="hero">
+        <blockquote cite="https://en.wikipedia.org/wiki/Arthur_Rubinstein">
+          Η μουσική αποτελεί γλώσσα που υπερβαίνει τους φραγμούς και φέρνει κοντά τους ανθρώπους από όλες τις πτυχές
+          της ζωής,<br>- Άρθουρ Ρουμπινστάιν
+        </blockquote>	
+      </section>
+      <h1>Το πιάνο σας αξίζει την καλύτερη φροντίδα</h1>
+      <p>
+        Αναζητάτε έναν επαγγελματία χορδιστή για το πιάνο σας; Η σωστή συντήρηση και το τακτικό χόρδισμα 
+        (τουλάχιστον μία φορά ανά έτος) είναι το κλειδί για έναν άρτιο, κρυστάλλινο ήχο.
+      </p>
     </header>
     <main>
       {{ content }}
